@@ -1,0 +1,13 @@
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\obj\Debug\netcoreapp3.1\FindNonDuplicateNumber.csprojAssemblyReference.cache
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\obj\Debug\netcoreapp3.1\FindNonDuplicateNumber.csproj.CoreCompileInputs.cache
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\obj\Debug\netcoreapp3.1\FindNonDuplicateNumber.AssemblyInfoInputs.cache
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\obj\Debug\netcoreapp3.1\FindNonDuplicateNumber.AssemblyInfo.cs
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\bin\Debug\netcoreapp3.1\FindNonDuplicateNumber.exe
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\bin\Debug\netcoreapp3.1\FindNonDuplicateNumber.deps.json
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\bin\Debug\netcoreapp3.1\FindNonDuplicateNumber.runtimeconfig.json
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\bin\Debug\netcoreapp3.1\FindNonDuplicateNumber.runtimeconfig.dev.json
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\bin\Debug\netcoreapp3.1\FindNonDuplicateNumber.dll
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\bin\Debug\netcoreapp3.1\FindNonDuplicateNumber.pdb
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\obj\Debug\netcoreapp3.1\FindNonDuplicateNumber.dll
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\obj\Debug\netcoreapp3.1\FindNonDuplicateNumber.pdb
+C:\Users\gdabail\source\repos\dailyprochallanges\FindNonDuplicateNumber\obj\Debug\netcoreapp3.1\FindNonDuplicateNumber.genruntimeconfig.cache
