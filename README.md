@@ -16,3 +16,4 @@ Solving the problems from Daily Interview Pro [site](https://www.techseries.dev/
 - 2020/03/26 - Non-decreasing Array with Single Modification
 - 2020/03/27 - Floor and Ceiling of a Binary Search Tree
 - 2020/03/28 - Invert a Binary Tree
+- ~2020/03/29 - Maximum In A Stack~
