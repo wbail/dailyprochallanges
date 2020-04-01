@@ -10,7 +10,7 @@ Solving the problems from Daily Interview Pro [site](https://www.techseries.dev/
 - 2020/03/20 - Validate Balanced Parentheses
 - ~2020/03/21 - First and Last Indices of an Element in a Sorted Array~
 - 2020/03/22 - Reverse a Linked List
-- 2020/03/23 - Sorting a list with 3 unique numbers
+- ~2020/03/23 - Sorting a list with 3 unique numbers~
 - ~2020/03/24 - Two-Sum~
 - ~2020/03/25 - Find the non-duplicate number~
 - 2020/03/26 - Non-decreasing Array with Single Modification
